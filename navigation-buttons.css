@@ -1,0 +1,125 @@
+.buttonnext-coloryellow-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.next7 {
+  position: absolute;
+  height: 27.31%;
+  width: 45.81%;
+  top: 46.76%;
+  left: 36.31%;
+  letter-spacing: -0.03em;
+  display: flex;
+  align-items: center;
+}
+.buttonnext-coloryellow {
+  position: absolute;
+  top: 101px;
+  left: 153.6px;
+  width: 286.4px;
+  height: 172.8px;
+}
+.buttonreset-coloryellow-child {
+  position: absolute;
+  height: 62.73%;
+  width: 105.69%;
+  top: 37.5%;
+  right: -5.69%;
+  bottom: -0.23%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.reset {
+  position: absolute;
+  top: 61.11%;
+  left: 25.14%;
+  letter-spacing: -0.03em;
+}
+.buttonreset-coloryellow {
+  position: absolute;
+  top: 576.2px;
+  left: 153.6px;
+  width: 286.4px;
+  height: 172.8px;
+}
+.buttonnext-colororange,
+.buttonreset-coloryellow1,
+.submit2 {
+  position: absolute;
+  top: 576.2px;
+  left: 496.8px;
+  width: 286.4px;
+  height: 172.8px;
+}
+.buttonnext-colororange,
+.submit2 {
+  top: 344.2px;
+  left: 153.6px;
+}
+.submit2 {
+  height: 36.96%;
+  width: 55.03%;
+  top: 37.93%;
+  left: 25.7%;
+  letter-spacing: -0.03em;
+  display: flex;
+  align-items: center;
+}
+.buttonsubmit-colororange,
+.buttonsubmit-coloryellow,
+.try-again4 {
+  position: absolute;
+  top: 109px;
+  left: 475.1px;
+  width: 330px;
+  height: 164.5px;
+}
+.buttonsubmit-colororange,
+.try-again4 {
+  top: 344.2px;
+}
+.try-again4 {
+  height: 40.53%;
+  width: 47.54%;
+  top: 29.87%;
+  left: 21.99%;
+  letter-spacing: -0.03em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttontry-again-colororange,
+.buttontry-again-coloryellow {
+  position: absolute;
+  top: 123.4px;
+  left: 839.9px;
+  width: 382px;
+  height: 150px;
+  text-align: center;
+}
+.buttontry-again-colororange {
+  top: 359.4px;
+}
+.navigation-buttons12 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 931px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-24xl-2);
+  color: var(--color-black);
+  font-family: var(--font-nico-moji);
+}

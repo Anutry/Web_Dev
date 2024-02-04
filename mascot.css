@@ -1,0 +1,174 @@
+.expressionworried-coloryell-icon,
+.expressionworried-coloryell-icon1 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 162.9px;
+  height: 134px;
+  object-fit: contain;
+}
+.expressionworried-coloryell-icon1 {
+  top: -24px;
+  left: 198px;
+  width: 211.8px;
+  height: 174.2px;
+}
+.expressionhappy-coloryellow-icon,
+.expressionhappy-coloryellow-icon1 {
+  position: absolute;
+  top: 150px;
+  left: 23px;
+  width: 162.9px;
+  height: 134px;
+  object-fit: contain;
+}
+.expressionhappy-coloryellow-icon1 {
+  top: 151px;
+  left: 201px;
+  width: 211.8px;
+  height: 174.2px;
+}
+.expressionsmirk-coloryellow-icon {
+  position: absolute;
+  top: 284px;
+  left: 19px;
+  width: 170.1px;
+  height: 135.3px;
+  object-fit: cover;
+}
+.expressionsmirk-coloryellow-icon1 {
+  position: absolute;
+  top: 329px;
+  left: 199px;
+  width: 221.1px;
+  height: 175.9px;
+  object-fit: cover;
+}
+.expressionhappy-colorpink-icon {
+  position: absolute;
+  top: 48px;
+  left: 420px;
+  width: 162.9px;
+  height: 134px;
+  object-fit: contain;
+}
+.expressionhappy-colorpink-icon1,
+.expressionsmirk-colorpink-icon {
+  position: absolute;
+  top: -5px;
+  left: 611px;
+  width: 211.8px;
+  height: 174.2px;
+  object-fit: contain;
+}
+.expressionsmirk-colorpink-icon {
+  top: 314px;
+  left: 427px;
+  width: 157px;
+  height: 130.5px;
+}
+.expressionworried-colorpink-icon {
+  position: absolute;
+  top: 179px;
+  left: 421px;
+  width: 162.9px;
+  height: 132.9px;
+}
+.expressionworried-colorpink-icon1 {
+  position: absolute;
+  top: 161px;
+  left: 611px;
+  width: 211.8px;
+  height: 172.8px;
+}
+.expressionworried-colorgrey-icon {
+  position: absolute;
+  top: 134px;
+  left: 841px;
+  width: 162.9px;
+  height: 132.9px;
+}
+.expressionworried-colorgrey-icon1 {
+  position: absolute;
+  top: 151px;
+  left: 1050px;
+  width: 211.8px;
+  height: 172.8px;
+}
+.expressionthumbs-up-colorye {
+  position: absolute;
+  top: 43px;
+  left: 1347px;
+  width: 84px;
+  height: 80.6px;
+}
+.expressionthumbs-up-colorgr,
+.expressionthumbs-up-colorpi {
+  position: absolute;
+  top: 186px;
+  left: 1347px;
+  width: 84px;
+  height: 80.6px;
+}
+.expressionthumbs-up-colorgr {
+  top: 318px;
+}
+.expressionsurprised-colorgr-icon {
+  position: absolute;
+  top: 255px;
+  left: 839px;
+  width: 162.9px;
+  height: 129.6px;
+}
+.expressionsurprised-colorgr-icon1 {
+  position: absolute;
+  top: 317px;
+  left: 1053px;
+  width: 211.8px;
+  height: 168.5px;
+}
+.expressionsmirk-colorgrey-icon {
+  position: absolute;
+  top: 377px;
+  left: 842px;
+  width: 162.9px;
+  height: 129.6px;
+}
+.expressionhappy-colorgrey-icon {
+  position: absolute;
+  top: 5px;
+  left: 833px;
+  width: 163.2px;
+  height: 129.8px;
+}
+.expressionhappy-colorgrey-icon1 {
+  position: absolute;
+  top: -23px;
+  left: 1048px;
+  width: 212.2px;
+  height: 168.8px;
+}
+.expressionsmirk-colorpink-icon1 {
+  position: absolute;
+  top: 343px;
+  left: 629px;
+  width: 204.2px;
+  height: 169.7px;
+  object-fit: cover;
+}
+.expressionsmirk-colorgrey-icon1 {
+  position: absolute;
+  top: 471px;
+  left: 1053px;
+  width: 211.8px;
+  height: 168.5px;
+}
+.mascot {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 781px;
+  overflow: hidden;
+}

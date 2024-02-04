@@ -1,0 +1,92 @@
+.property-1enter-value-child {
+  width: 703.4px;
+  position: relative;
+  max-height: 100%;
+}
+.property-1enter-value {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.div96 {
+  width: 177px;
+  position: relative;
+  letter-spacing: 0.07em;
+  display: flex;
+  align-items: center;
+  height: 30px;
+  flex-shrink: 0;
+}
+.property-1cursor-on-child {
+  width: 709px;
+  position: relative;
+  max-height: 100%;
+}
+.property-1cursor-on {
+  position: absolute;
+  top: 184px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.span {
+  color: transparent;
+}
+.txt {
+  width: 100%;
+}
+.div97 {
+  width: 179px;
+  position: relative;
+  letter-spacing: 0.07em;
+  display: flex;
+  align-items: center;
+  height: 30px;
+  flex-shrink: 0;
+}
+.property-1cursor-off {
+  position: absolute;
+  top: 348px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.value {
+  position: relative;
+  letter-spacing: 0.07em;
+}
+.property-1value {
+  position: absolute;
+  top: 520px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.input6 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 674px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-helvetica);
+}
